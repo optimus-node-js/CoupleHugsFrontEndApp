@@ -4,6 +4,8 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
+**Related:** Backend API (live): [couple-hugs-api.vercel.app](https://couple-hugs-api.vercel.app/api/health)
+
 ## Screens
 
 - `LoadingActivity`: splash / session check
